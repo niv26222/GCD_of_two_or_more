@@ -1,5 +1,4 @@
-// C++ program to find GCD of two or 
-// more numbers 
+// C++ program to find GCD of two or more numbers 
 
 #include <bits/stdc++.h> 
 using namespace std; 
