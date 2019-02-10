@@ -11,8 +11,7 @@ int gcd(int a, int b)
     return gcd(b % a, a); 
 } 
   
-// Function to find gcd of array of 
-// numbers 
+// Function to find gcd of array of numbers 
 int findGCD(int arr[], int n) 
 { 
     int result = arr[0]; 
